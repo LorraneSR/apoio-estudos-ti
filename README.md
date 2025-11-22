@@ -13,7 +13,7 @@ Este repositório foi criado com o intuito de ajudar nos estudos sobre os temas 
 |CONTEÚDO|COMANDOS|
 |-------|-------|
 |CTFL| [Conceitos]|
-|Git e Git Hub| [Conceitos]|
+|Git e Git Hub| [Conceitos](git-github.md)|
 |Java| [Conceitos]|
 |Python| [Conceitos]|
 |QA| [Conceitos]|
