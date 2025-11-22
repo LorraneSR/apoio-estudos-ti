@@ -1,4 +1,4 @@
-#Git e GitHub
+# Git e GitHub
 
 ### Listando arquivos
 Comando para listar todo o conteúdo que está dentro do repositório
@@ -12,7 +12,7 @@ Comando para limpar a tela e remover todos os comandos digitados
 $ clear
 ~~~
 
-### Criando um arquivo
+### Criando uma pasta
 Comando criar uma pasta dentro do repositório
 ~~~
 $ mkdir nome-pasta
